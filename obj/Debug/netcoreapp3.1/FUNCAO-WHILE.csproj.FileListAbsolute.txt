@@ -1,0 +1,13 @@
+C:\Users\Desktop\Desktop\FUNCAO-WHILE\bin\Debug\netcoreapp3.1\FUNCAO-WHILE.exe
+C:\Users\Desktop\Desktop\FUNCAO-WHILE\bin\Debug\netcoreapp3.1\FUNCAO-WHILE.deps.json
+C:\Users\Desktop\Desktop\FUNCAO-WHILE\bin\Debug\netcoreapp3.1\FUNCAO-WHILE.runtimeconfig.json
+C:\Users\Desktop\Desktop\FUNCAO-WHILE\bin\Debug\netcoreapp3.1\FUNCAO-WHILE.runtimeconfig.dev.json
+C:\Users\Desktop\Desktop\FUNCAO-WHILE\bin\Debug\netcoreapp3.1\FUNCAO-WHILE.dll
+C:\Users\Desktop\Desktop\FUNCAO-WHILE\bin\Debug\netcoreapp3.1\FUNCAO-WHILE.pdb
+C:\Users\Desktop\Desktop\FUNCAO-WHILE\obj\Debug\netcoreapp3.1\FUNCAO-WHILE.csprojAssemblyReference.cache
+C:\Users\Desktop\Desktop\FUNCAO-WHILE\obj\Debug\netcoreapp3.1\FUNCAO-WHILE.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\FUNCAO-WHILE\obj\Debug\netcoreapp3.1\FUNCAO-WHILE.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\FUNCAO-WHILE\obj\Debug\netcoreapp3.1\FUNCAO-WHILE.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\FUNCAO-WHILE\obj\Debug\netcoreapp3.1\FUNCAO-WHILE.dll
+C:\Users\Desktop\Desktop\FUNCAO-WHILE\obj\Debug\netcoreapp3.1\FUNCAO-WHILE.pdb
+C:\Users\Desktop\Desktop\FUNCAO-WHILE\obj\Debug\netcoreapp3.1\FUNCAO-WHILE.genruntimeconfig.cache
